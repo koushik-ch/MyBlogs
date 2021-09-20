@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Hosted here👇
+
+[MyBlogs](https://myblogs-29220.web.app/)
